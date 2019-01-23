@@ -88,6 +88,13 @@ p.lead {
     margin-bottom: 2rem;
 }
 
+p2.lead {
+    font-size: 28px;
+    font-weight: 300;
+    color: #2927aa;
+    margin-bottom: 0.7rem;
+}
+
 .text-primary {
     color: #1e0997 !important;
 }
